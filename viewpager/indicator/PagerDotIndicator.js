@@ -66,7 +66,7 @@ export default class PagerDotIndicator extends Component {
 const styles = StyleSheet.create({
     container: {
         position: 'absolute',
-        bottom: 105,
+        bottom: '18%',
         left: 0,
         right: 0,
         flexDirection: 'row',
